@@ -18,7 +18,7 @@ function forLoop(array){
     }
           return 'done';
   }
-  var i=0;
+  var n=0;
   
   function doWhileLoop(num){           
   
