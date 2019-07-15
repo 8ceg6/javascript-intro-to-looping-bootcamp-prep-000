@@ -21,7 +21,8 @@ function forLoop(array){
   
   
   function doWhileLoop(num){           
-            
+           var n=0; 
+  
   function incrementVariabe(){
             n= n+1;
             return n;
