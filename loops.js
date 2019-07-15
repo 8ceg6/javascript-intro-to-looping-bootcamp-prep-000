@@ -29,4 +29,5 @@ function forLoop(array){
    }
    
    
-   while (incrementVariabe() < 5;
+   while (incrementVariabe() < 5)
+   }
