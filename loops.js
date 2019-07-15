@@ -30,9 +30,9 @@ function forLoop(array){
    }
    
    
-   while (incrementVariabe() < n);
+   while (incrementVariabe() < n+11);
    }
-   console.log (incrementVariabe(10))
+   console.log (incrementVariabe())
    
    
    
