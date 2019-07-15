@@ -26,7 +26,8 @@ function forLoop(array){
             n= n+1;
             return n;
  }
-   do {console.log("I run once regardless");
+   do {console.log("I run once regardless") + n;
+   n++
    }
    
    
