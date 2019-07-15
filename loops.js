@@ -22,8 +22,8 @@ function forLoop(array){
   
   function doWhileLoop(num){           
   function incrementVariabe(n){
-  i= i+1;
-  return i+9;
+  i= i+10;
+  return i;
  }
    do {console.log("I run once regardless");
    }
