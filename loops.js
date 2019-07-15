@@ -28,5 +28,6 @@ function forLoop(array){
    do {console.log("I run once regardless")(0);
    }
    
-      while (incrementVariabe() < 0)             }    
- }
+   
+   while 
+   
