@@ -28,11 +28,11 @@ function forLoop(array){
             return n;
  }
    do {console.log("I run once regardless") ;
-        incrementVariabe
+        incrementVariabe()
    }
    
    
-   while (incrementVariabe() <n );
+   while (num >n );
    }
    console.log (incrementVariabe())
    
