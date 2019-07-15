@@ -23,7 +23,7 @@ function forLoop(array){
   function doWhileLoop(num){           
   function incrementVariabe(n){
   i= i+1;
-  return i;
+  return i+9;
  }
    do {console.log("I run once regardless");
    }
