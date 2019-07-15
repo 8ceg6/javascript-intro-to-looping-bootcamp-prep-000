@@ -20,7 +20,7 @@ function forLoop(array){
   }
   var i=0;
   
-             
+  function doWhileLoop(num){           
   function incrementVariabe(n){
   i= i+1;
   return i;
@@ -29,5 +29,5 @@ function forLoop(array){
    }
    
    
-   while (incrementVariabe() < 0)
+   while (incrementVariabe() < 0);
    }
