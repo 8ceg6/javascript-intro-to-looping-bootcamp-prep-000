@@ -28,7 +28,7 @@ function forLoop(array){
             return n;
  }
    do {console.log("I run once regardless") ;
-  
+        incrementVariabe
    }
    
    
