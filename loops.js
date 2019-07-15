@@ -20,14 +20,13 @@ function forLoop(array){
   }
   var i=0;
   
- function doWhileLoop(){             
+             
   function incrementVariabe(n){
   i= i+1;
   return i;
- }}
-   do {console.log("I run once regardless")(0);
+ }
+   do {console.log("I run once regardless");
    }
    
    
-   while 
-   
+   while (incrementVariabe() < 5;
