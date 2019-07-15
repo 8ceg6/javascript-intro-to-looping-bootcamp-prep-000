@@ -29,5 +29,5 @@ function forLoop(array){
    }
    
    
-   while (incrementVariabe() < 0);
+   while (incrementVariabe() < 10);
    }
