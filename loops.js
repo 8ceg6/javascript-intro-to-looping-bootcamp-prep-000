@@ -32,4 +32,10 @@ function forLoop(array){
    
    while (incrementVariabe() < i);
    }
-   console.log doWhileLoop(10)}
+   console.log (incrementVariabe(10))
+   
+   
+   
+   
+   
+   
